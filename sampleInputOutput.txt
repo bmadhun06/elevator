@@ -1,0 +1,18 @@
+Welcome to the elevator system.
+Enter number of elevators required :
+3
+Enter elevators and its current position in the format -> <ElevatorName>,<Elevat
+orPosition>
+E1,7
+E2,4
+E3,0
+Enter the floor number to which elevator has to come:
+3
+User - 1 is currently on the floor no: 3
+User - 1 you are on 3 floor, type 'x' to call the elevator!
+x
+Lift E2!!!
+The elevator goes to your floor ...
+The elevator has reached your floor!
+The elevator is going...
+The elevator was going down
